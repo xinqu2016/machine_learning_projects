@@ -1,4 +1,4 @@
-# This programs builds a memory work for answering questions with test accuracy close to 1
+# This programs builds a memory network for answering questions with test accuracy close to 1
 import os
 import collections
 import nltk
